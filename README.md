@@ -1,7 +1,7 @@
 js和css文件变化自动压缩
 ===================
 
-> 调用uglifyjs和cleancss
+> 此工具基于Nodejs，集成了uglifyjs和cleancss
 
 ##使用##
 
