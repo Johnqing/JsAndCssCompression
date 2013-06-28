@@ -11,5 +11,5 @@ js和css文件变化自动压缩
 3. 命令行**cd**到watch.js文件目录
 4. 运行
 <pre>
-cd watch.js
+node watch.js
 </pre>
